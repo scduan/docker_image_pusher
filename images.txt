@@ -1,1 +1,1 @@
-node:20-alpine
+gitlab/gitlab-runner:v17.0.0
