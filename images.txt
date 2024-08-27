@@ -1,3 +1,6 @@
+gitlab/gitlab-ce:17.2.4-ce.0
+gitlab/gitlab-ce:17.3.1-ce.0
+gitlab/gitlab-runner:v17.3.1
 portainer/portainer-ce:2.21.0-alpine
 #支持指定架构
---platform=linux/amd64 linux/arm64
+#--platform=linux/amd64 linux/arm64
