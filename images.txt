@@ -2,6 +2,6 @@
 #gitlab/gitlab-runner:v17.10.1
 #mysql:8.0.39
 #redis:7.4.1
-louislam/uptime-kuma:3.0.0-beta-slim.2
+louislam/uptime-kuma:2.0.0-beta-rootless.3
 #支持指定架构
 #--platform=linux/amd64 linux/arm64
