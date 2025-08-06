@@ -1,7 +1,7 @@
-#gitlab/gitlab-ce:17.10.4-ce.0
+gitlab/gitlab-ce:18.1.3-ce.0
 #gitlab/gitlab-runner:v17.10.1
 #mysql:8.0.39
 #redis:7.4.1
-louislam/uptime-kuma:2.0.0-beta-slim.2
+#louislam/uptime-kuma:2.0.0-beta-slim.2
 #支持指定架构
 #--platform=linux/amd64 linux/arm64
