@@ -1,9 +1,9 @@
-#gitlab/gitlab-ce:18.2.4-ce.0
-#gitlab/gitlab-runner:v18.2.0
+gitlab/gitlab-ce:18.3.0-ce.0
+gitlab/gitlab-runner:v18.3.0
 #mysql:8.0.39
 #redis:8.2.0
 #louislam/uptime-kuma:2.0.0-beta-slim.3
 #bytebase/bytebase:3.9.0
-portainer/agent:2.33.0
+#portainer/agent:2.33.0
 #支持指定架构
 #--platform=linux/amd64 linux/arm64
