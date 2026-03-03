@@ -1,8 +1,8 @@
-gitlab/gitlab-ce:18.6.6-ce.0
-gitlab/gitlab-ce:18.7.5-ce.0
-gitlab/gitlab-ce:18.8.5-ce.0
-gitlab/gitlab-ce:18.9.1-ce.0
-#gitlab/gitlab-runner:v18.6.6
+#gitlab/gitlab-ce:18.6.6-ce.0
+#gitlab/gitlab-ce:18.7.5-ce.0
+#gitlab/gitlab-ce:18.8.5-ce.0
+#gitlab/gitlab-ce:18.9.1-ce.0
+gitlab/gitlab-runner:v18.9.0
 #mysql:8.0.39
 #redis:8.2.1
 #louislam/uptime-kuma:2.0.0-beta-slim.4
