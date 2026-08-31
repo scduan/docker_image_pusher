@@ -1,10 +1,10 @@
 #gitlab/gitlab-ce:19.3.1-ce.0
 #gitlab/gitlab-ce:19.2.5-ce.0
-gitlab/gitlab-runner:v19.2.3
+#gitlab/gitlab-runner:v19.2.3
 #mysql:8.0.39
 #redis:8.2.1
-#louislam/uptime-kuma:2.0.0-beta-slim.4
-bytebase/bytebase:3.22.0
+louislam/uptime-kuma:2.5.3
+#bytebase/bytebase:3.22.0
 #portainer/portainer-ce:2.33.6
 #portainer/agent:2.33.6
 #nginx:alpine
