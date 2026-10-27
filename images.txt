@@ -1,5 +1,7 @@
-gitlab/gitlab-ce:19.3.3-ce.0
-#gitlab/gitlab-runner:v19.2.3
+gitlab/gitlab-ce:19.3.6-ce.0
+gitlab/gitlab-ce:19.4.3-ce.0
+gitlab/gitlab-ce:19.5.1-ce.0
+gitlab/gitlab-runner:v19.5.0
 #mysql:8.0.46
 #redis:8.2.1
 #louislam/uptime-kuma:2.5.3
